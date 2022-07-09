@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lee-demo/static/css/main.5af885ab.css",
+    "main.js": "/lee-demo/static/js/main.ef24c193.js",
+    "index.html": "/lee-demo/index.html",
+    "main.5af885ab.css.map": "/lee-demo/static/css/main.5af885ab.css.map",
+    "main.ef24c193.js.map": "/lee-demo/static/js/main.ef24c193.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5af885ab.css",
+    "static/js/main.ef24c193.js"
+  ]
+}
