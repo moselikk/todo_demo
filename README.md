@@ -6,4 +6,4 @@ Just a small project created using [Create React App](https://github.com/faceboo
   <img src="./src/static/To-Do-list.png" width="800px"></img>
 </p>
 
-To see the live demo. [To-Do list demo](http://www.moselikk.com/lee-demo/)
+To see the live demo. [To-Do list demo](http://www.moselikk.com/todo_demo/)

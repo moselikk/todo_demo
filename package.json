@@ -22,7 +22,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "homepage": "https://moselikk.com/lee-demo",
+  "homepage": "https://moselikk.com/todo_demo",
 
   "eslintConfig": {
     "extends": [
